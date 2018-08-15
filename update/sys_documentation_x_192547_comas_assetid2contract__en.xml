@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="AssetID2Contract" language="en" table="x_192547_comas_assetid2contract">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>AssetID2Contract</label>
+            <language>en</language>
+            <name>x_192547_comas_assetid2contract</name>
+            <plural>AssetID2Contracts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-15 09:22:53</sys_created_on>
+            <sys_id>9751cef74fb3130058c38df07310c735</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>AssetID2Contract</sys_name>
+            <sys_package display_value="CoMaS" source="x_192547_comas">4a16f5ff4f73130058c38df07310c72f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CoMaS">4a16f5ff4f73130058c38df07310c72f</sys_scope>
+            <sys_update_name>sys_documentation_x_192547_comas_assetid2contract__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-15 09:22:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

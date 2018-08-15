@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Runtime Contract" max_length="40" name="x_192547_comas_runtime_contract" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Adresse" mandatory="true" max_length="40" name="adresse" type="integer"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" display="true" label="Bezeichnung" max_length="50" name="bezeichnung" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Contract ID" mandatory="true" max_length="40" name="contract_id" type="integer"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="3" default="1" label="Leistung Art" mandatory="true" max_length="50" name="leistung_art" type="string">
+            <choice>
+                <element label="EMS" value="5"/>
+                <element label="EraSURE" value="4"/>
+                <element label="Mietschein" value="1"/>
+                <element label="OPS" value="3"/>
+                <element label="TESMA" value="2"/>
+            </choice>
+        </element>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Leistung Ende" max_length="40" name="leistung_ende" type="glide_date"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Leistung Monate" mandatory="true" max_length="40" name="leistung_monate" type="integer"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Leistung Start" mandatory="true" max_length="40" name="leistung_start" type="glide_date"/>
+    </element>
+</database>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="snow_asset_id" label="SNOW_Asset_ID" language="en" table="x_192547_comas_lifetime_asset">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>snow_asset_id</element>
+            <help/>
+            <hint/>
+            <label>SNOW_Asset_ID</label>
+            <language>en</language>
+            <name>x_192547_comas_lifetime_asset</name>
+            <plural>SNOW_Asset_IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-15 09:13:08</sys_created_on>
+            <sys_id>fc2f39774fb3130058c38df07310c761</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SNOW_Asset_ID</sys_name>
+            <sys_package display_value="CoMaS" source="x_192547_comas">4a16f5ff4f73130058c38df07310c72f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CoMaS">4a16f5ff4f73130058c38df07310c72f</sys_scope>
+            <sys_update_name>sys_documentation_x_192547_comas_lifetime_asset_snow_asset_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-15 09:13:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
